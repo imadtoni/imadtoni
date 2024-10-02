@@ -5,6 +5,8 @@
 <a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
+## Glad to see you here! &nbsp; :)
+
 <p>English teacher with a passion for literature and language, Encourages students to express themselves and think critically about the world around them. </p>
 <p>Outside the classroom enjoys photography, design, and diving into a good book </p>
 <p>always seeking new ways to enrich [his/her/their] students’ learning experiences </p>
