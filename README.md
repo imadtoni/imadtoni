@@ -1,5 +1,9 @@
 
 <h1>Welcome to Toni's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp;
 
 <p>English teacher with a passion for literature and language, Encourages students to express themselves and think critically about the world around them. </p>
 <p>Outside the classroom enjoys photography, design, and diving into a good book </p>
