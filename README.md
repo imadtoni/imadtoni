@@ -1,3 +1,42 @@
+
+<h1>Hi 👋, I'm Toni</h1>
+
+<p>A passionate frontend developer from </p>
+
+<h2>🛠 Skills</h2>
+<p>
+
+<a target="_blank" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" style="display: inline-block;">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" />
+</a>
+
+
+<a target="_blank" href="https://www.photoshop.com/en" target="_blank" style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" />
+</a>
+
+</p>
+
+<a href="https://github.com/hello" target="_blank">
+<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=hello&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
+</a>
+
+<h2>📪 Contact me</h2>
+<p>
+<a target="_blank" href="grgergerg" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+</a>
+
+<a target="_blank" href="fdgerge" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+</a>
+
+<a target="_blank" href="sgergergergegerg" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+</a>
+
+</p>
+
 - 👋 Hi, I’m @imadtoni
 - 👀 I’m interested in teaching
 - 🌱 I’m currently learning designe
