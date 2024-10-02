@@ -1,7 +1,9 @@
 
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Toni</h1>
 
-<p>A passionate frontend developer from </p>
+<p>English teacher with a passion for literature and language, Encourages students to express themselves and think critically about the world around them. </p>
+<p>Outside the classroom enjoys photography, design, and diving into a good book </p>
+<p>always seeking new ways to enrich [his/her/their] students’ learning experiences </p>
 
 <h2>🛠 Skills</h2>
 <p>
