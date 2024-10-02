@@ -11,6 +11,21 @@
 <p>Outside the classroom enjoys photography, design, and diving into a good book </p>
 <p>always seeking new ways to enrich [his/her/their] students’ learning experiences </p>
 
+
+### Talking about Personal Stuff:
+
+- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
+- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
+- 💬 Ask me about anything, I am happy to help
+- ✍ I'm a **Technical blogger** with 10,000+ user reads
+- 🌱 I'm currently learning:
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
+- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+- 💪 This is where I write, code and solve problems:
 <h2>🛠 Skills</h2>
 <p>
 
