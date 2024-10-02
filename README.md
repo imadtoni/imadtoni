@@ -7,8 +7,9 @@
 
 ## Glad to see you here! &nbsp;:)
 
-<p>English teacher with a passion for literature and language, Encourages students to express themselves and think critically about the world around them. </p>
-<p>Outside the classroom enjoys photography, design, and diving into a good book </p>
+<p> | English teacher with a passion for literature and language, </p>
+<p> | Encourages students to express themselves and think critically about the world around them. </p>
+<p> | Outside the classroom enjoys photography, design, and diving into a good book </p>
 <p>always seeking new ways to enrich [his/her/their] students’ learning experiences </p>
 
 
