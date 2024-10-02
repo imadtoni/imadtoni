@@ -1,5 +1,5 @@
 
-<h1>Hi I'm Toni Welcome to My profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Welcome to Toni's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p>English teacher with a passion for literature and language, Encourages students to express themselves and think critically about the world around them. </p>
 <p>Outside the classroom enjoys photography, design, and diving into a good book </p>
